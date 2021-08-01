@@ -9,7 +9,7 @@ let allMusic = [
       name: "Blinding Lights",
       artist: "The Weeknd",
       img: "blinding lights",
-      src: "blinding-lights"
+      src: "blinding-lights" 
     },
     {
       name: "The hills",
